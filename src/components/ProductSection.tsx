@@ -46,13 +46,13 @@ const products = [
     logo: "/logo.png",
     image: "/kirusachannels.png",
   },
-  {
-    name: "VoIP Voice Platform",
-    description:
-      "API-powered voice infrastructure enabling automated outbound calls for promotions, surveys, and engagement.",
-    logo: "/logo.png",
-    image: "/kirusachannels.png",
-  },
+  // {
+  //   name: "VoIP Voice Platform",
+  //   description:
+  //     "API-powered voice infrastructure enabling automated outbound calls for promotions, surveys,and engagement.",
+  //   logo: "/logo.png",
+  //   image: "/kirusachannels.png",
+  // },
   {
     name: "HappyFit",
     description:
