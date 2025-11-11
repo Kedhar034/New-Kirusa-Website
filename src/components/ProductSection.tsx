@@ -30,21 +30,28 @@ const products = [
     description:
       "The platform helps public figures connect personally with fans through custom messages while earning extra income.",
     logo: "/logo.png",
-    image: "/video4U.png",
+    image: "/video4u.png",
   },
   {
     name: "InstaVoice Ring",
     description:
       "InstaVoice Ring is Kirusa’s unique call-completion service that sends a missed call to the called party when the person trying to call or text, has zero prepaid balance.",
     logo: "/logo.png",
-    image: "/InstaVoiceRing.png",
+    image: "/instaVoicering.png",
   },
   {
-    name: "InstaVoice ",
+    name: "Kirusa Channels",
     description:
-      "InstaVoice is a cloud-based service that provides voicemail, missed call alerts, and reachability notifications through a seamless, visual app integrated with mobile carriers.",
+      "Voice-driven entertainment that brings African fans closer to their favorite stars, sports, and stories",
     logo: "/logo.png",
-    image: "/InstaVoice.png",
+    image: "/kirusachannels.png",
+  },
+  {
+    name: "VoIP Voice Platform",
+    description:
+      "API-powered voice infrastructure enabling automated outbound calls for promotions, surveys, and engagement.",
+    logo: "/logo.png",
+    image: "/kirusachannels.png",
   },
   {
     name: "HappyFit",

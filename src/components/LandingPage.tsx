@@ -81,7 +81,7 @@ const LandingPage: React.FC = () => {
           transition={{ duration: 1 }}
         >
           <span className="word-1 inline-block ">Engineering</span>{" "}
-          <span className="word-2 inline-block text-gray-300">the Future with</span>{" "}
+          <span className="word-2 inline-block text-gray-300">The Future with</span>{" "}
           <span className="word-3 inline-block text-[#ff4d4d]">AI</span>
         </motion.h1>
 
