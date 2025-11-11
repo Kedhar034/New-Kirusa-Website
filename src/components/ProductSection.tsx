@@ -6,30 +6,52 @@ const products = [
     name: "Melody Crafters",
     description:
       "Craft Personalized Musical Gifts in Minutes with AI — turn your emotions into custom AI songs and videos.",
-    logo: "src/res/MelodyCraftersLogo.png",
-    image: "src/res/melody.png",
+    logo: "/MelodyCraftersLogo.png",
+    image: "/melody.png",
   },
-  {
-    name: "HappyFit",
-    description:
-      "Your AI-powered fitness companion. Track, analyze, and improve your health seamlessly.",
-    logo: "src/res/HappyFitLogo.png",
-    image: "src/res/happyfi.png",
-  },
+  
   {
     name: "Corpusio",
     description:
       "AI-driven text intelligence — analyze, summarize, and optimize content effortlessly.",
-    logo: "src/res/CorpusioLogo.png",
-    image: "src/res/corp.png",
+    logo: "/CorpusioLogo.png",
+    image: "/corp.png",
   },
   {
     name: "Convobuddy",
     description:
       "Conversational AI that connects — intelligent assistants built with deep learning.",
-    logo: "src/res/ConvobuddyLogo.png",
+    logo: "/ConvoBuddyLogo.png",
     image:
       "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?auto=format&fit=crop&w=1200&q=80",
+  },
+  {
+    name: "Video4U",
+    description:
+      "The platform helps public figures connect personally with fans through custom messages while earning extra income.",
+    logo: "/logo.png",
+    image: "/video4U.png",
+  },
+  {
+    name: "InstaVoice Ring",
+    description:
+      "InstaVoice Ring is Kirusa’s unique call-completion service that sends a missed call to the called party when the person trying to call or text, has zero prepaid balance.",
+    logo: "/logo.png",
+    image: "/InstaVoiceRing.png",
+  },
+  {
+    name: "InstaVoice ",
+    description:
+      "InstaVoice is a cloud-based service that provides voicemail, missed call alerts, and reachability notifications through a seamless, visual app integrated with mobile carriers.",
+    logo: "/logo.png",
+    image: "/InstaVoice.png",
+  },
+  {
+    name: "HappyFit",
+    description:
+      "Your AI-powered fitness companion. Track, analyze, and improve your health seamlessly.",
+    logo: "/HappyFitLogo.png",
+    image: "/happyfi.png",
   },
 ];
 
