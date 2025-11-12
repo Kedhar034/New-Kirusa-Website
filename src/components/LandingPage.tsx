@@ -100,7 +100,7 @@ const LandingPage: React.FC = () => {
           whileTap={{ scale: 0.95 }}
           className="mt-10 px-8 py-4 bg-[#ff4d4d] text-white rounded-full shadow-lg hover:bg-[#e83e3e] transition-all duration-300"
         >
-          Explore Our Vision
+          Explore Our Products
         </motion.button>
       </section>
     </div>
@@ -108,3 +108,4 @@ const LandingPage: React.FC = () => {
 };
 
 export default LandingPage;
+
