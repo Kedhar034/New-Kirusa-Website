@@ -41,21 +41,21 @@ const legacyProducts = [
   {
     name: "InstaVoice",
     description:
-      "InstaVoice is an innovative, cloud-based call completion solution that empowers users to stay connected by providing seamless access to voicemails, missed call alerts, and reachability notifications.",
+      "InstaVoice is a cloud-based solution that keeps users connected with voicemails, missed call alerts, and reachability updates.",
     logo: "/InstaVoiceLogo.svg",
     image: "/InstaVoice (1).png",
   },
   {
     name: "Kirusa Channels",
     description:
-      "Kirusa Channels is a premier celebrity–fan engagement platform designed to foster meaningful and interactive connections between celebrities and their fans through the power of voice and video.",
+      "Kirusa Channels is a voice and video platform that enables interactive and meaningful connections between celebrities and fans.",
     logo: "/KirusaChannels.svg",
     image: "/kirusachannels.png",
   },
   {
     name: "InstaVoice Ring",
     description:
-      "InstaVoice Ring is Kirusa’s innovative call completion service that enables users with zero prepaid balance to stay connected by automatically triggering a missed call notification to the intended recipient.",
+      "InstaVoice Ring lets users with zero balance stay connected by automatically sending missed call alerts to recipients.",
     logo: "/InstaVoiceRingLogo.svg",
     image: "/InstaVoiceRing (1).png",
   },
@@ -194,4 +194,5 @@ const ProductSection: React.FC = () => {
 };
 
 export default ProductSection;
+
 
