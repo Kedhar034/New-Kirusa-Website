@@ -28,7 +28,7 @@ const aiProducts = [
     name: "Convobuddy",
     description:
       "Conversational AI that connects — intelligent assistants built with deep learning.",
-    logo: "/ConvobuddyLogo.png",
+    logo: "/ConvoBuddyLogo.png",
     image:
       "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?auto=format&fit=crop&w=1200&q=80",
   },
@@ -43,28 +43,28 @@ const legacyProducts = [
     description:
       "InstaVoice is an innovative, cloud-based call completion solution that empowers users to stay connected by providing seamless access to voicemails, missed call alerts, and reachability notifications.",
     logo: "/InstaVoiceLogo.svg",
-    image: "/InstaVoice.png",
+    image: "/InstaVoice (1).png",
   },
   {
     name: "Kirusa Channels",
     description:
       "Kirusa Channels is a premier celebrity–fan engagement platform designed to foster meaningful and interactive connections between celebrities and their fans through the power of voice and video.",
     logo: "/KirusaChannels.svg",
-    image: "/KirusaChannels.png",
+    image: "/kirusachannels.png",
   },
   {
     name: "InstaVoice Ring",
     description:
       "InstaVoice Ring is Kirusa’s innovative call completion service that enables users with zero prepaid balance to stay connected by automatically triggering a missed call notification to the intended recipient.",
     logo: "/InstaVoiceRingLogo.svg",
-    image: "/InstaVoiceRing.png",
+    image: "/InstaVoiceRing (1).png",
   },
   {
     name: "Video4u",
     description:
       "We help public figures connect personally with fans through custom messages while earning extra income.",
     logo: "/Video4uLogo.png",
-    image: "/Video4u.png",
+    image: "/Video4u (1).png",
   },
 ];
 
@@ -194,3 +194,4 @@ const ProductSection: React.FC = () => {
 };
 
 export default ProductSection;
+
