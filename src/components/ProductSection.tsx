@@ -3,13 +3,33 @@ import gsap from "gsap";
 
 const products = [
   {
+    name: "InstaVoice Ring",
+    description:
+      "InstaVoice Ring is Kirusa’s unique call-completion service that sends a missed call to the called party when the person trying to call or text, has zero prepaid balance.",
+    logo: "/logo.png",
+    image: "/instaVoicering.png",
+  },
+  {
+    name: "Kirusa Channels",
+    description:
+      "Voice-driven entertainment that brings African fans closer to their favorite stars, sports, and stories",
+    logo: "/logo.png",
+    image: "/kirusachannels.png",
+  },
+  {
     name: "Melody Crafters",
     description:
       "Craft Personalized Musical Gifts in Minutes with AI — turn your emotions into custom AI songs and videos.",
     logo: "/MelodyCraftersLogo.png",
     image: "/melody.png",
   },
-  
+  {
+    name: "Video4U",
+    description:
+      "The platform helps public figures connect personally with fans through custom messages while earning extra income.",
+    logo: "/logo.png",
+    image: "/video4u.png",
+  },
   {
     name: "Corpusio",
     description:
@@ -24,27 +44,6 @@ const products = [
     logo: "/ConvoBuddyLogo.png",
     image:
       "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?auto=format&fit=crop&w=1200&q=80",
-  },
-  {
-    name: "Video4U",
-    description:
-      "The platform helps public figures connect personally with fans through custom messages while earning extra income.",
-    logo: "/logo.png",
-    image: "/video4u.png",
-  },
-  {
-    name: "InstaVoice Ring",
-    description:
-      "InstaVoice Ring is Kirusa’s unique call-completion service that sends a missed call to the called party when the person trying to call or text, has zero prepaid balance.",
-    logo: "/logo.png",
-    image: "/instaVoicering.png",
-  },
-  {
-    name: "Kirusa Channels",
-    description:
-      "Voice-driven entertainment that brings African fans closer to their favorite stars, sports, and stories",
-    logo: "/logo.png",
-    image: "/kirusachannels.png",
   },
   // {
   //   name: "VoIP Voice Platform",
@@ -150,3 +149,4 @@ const ProductSection: React.FC = () => {
 };
 
 export default ProductSection;
+
